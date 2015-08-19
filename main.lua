@@ -352,7 +352,7 @@ local function showInputTextEvent()
       i = i + 1
    end
 
-   dofile("data")   
+   dofile("Test/data")   
 end
 
 local function expandAllButtonEvent()

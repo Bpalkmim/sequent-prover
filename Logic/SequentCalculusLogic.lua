@@ -11,7 +11,7 @@ require "Logic/SequentGraph"
 require "Logic/Goal"
 require "Logic/ConstantsForSequent"
 require 'UI/ParseInput'
-require "logging" 
+require "logging"
 require "logging.file"
 require "Logic/Set"
 require "Util/utility"

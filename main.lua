@@ -7,10 +7,10 @@
 --
 -------------------------------------------------------------------------------
 
-require 'ConstantsForLove'
-require 'Utility'
-require 'SequentCalculusLogic'
-require 'ParseInput'
+require 'UI/ConstantsForLove'
+require 'Util/utility'
+require 'Logic/SequentCalculusLogic'
+require 'UI/ParseInput'
 require 'logging.file'
 require 'io' 
 
